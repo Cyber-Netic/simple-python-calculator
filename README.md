@@ -9,5 +9,5 @@ This is a basic calculator program written in Python. It performs the following 
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/simple-python-calculator.git
+   git clone https://github.com/Cyber-Netic/simple-python-calculator.git
    cd simple-python-calculator
